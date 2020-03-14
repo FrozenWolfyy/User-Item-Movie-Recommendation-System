@@ -7,7 +7,7 @@ An item based Movie Recommendation Engine using Collaborative Filtering based on
 Technologies Used
 ------
 
-**Machine Learning Libraries used in Python3**
+**Machine Learning Libraries used in Python3**</br>
 Numpy , Pandas.
 
 
